@@ -30,7 +30,7 @@ To-do list:
 
 ## Getting Started
    
-*(https://github.com/ManideepcharyBejjanki/The_GroceryStore_App.git) 
+*(https://github.com/RashvikaP/Project2.git) 
 
 >How to Install Eclipse on Windows
 Step 0: Install JDK
@@ -106,5 +106,4 @@ If the process gets completed successfully, your browser window will open
 
 * Manideep Bejjanki
 * Laxmi Durga Prasad
-* Vasu Deva Reddy
-* Sadhana Tiwari
+* Rashvika
